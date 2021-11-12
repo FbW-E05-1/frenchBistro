@@ -19,7 +19,8 @@
   "keywords": [],
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^5.0.2"
+    "bootstrap": "^5.0.2",
+    "normalize.css": "^8.0.1"
   },
   "devDependencies": {
     "gh-pages": "3.0.0",
